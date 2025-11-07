@@ -16,9 +16,9 @@ data "aws_ami" "ubuntu" {
 
 resource "aws_instance" "appsrv" {
   ami           = data.aws_ami.ubuntu.id
-  instance_type = "t2.nano"
+  instance_type = var.instance_type
 
   tags = {
-    Name = "aws-get-started"
+    Name = var.instance_name
   }
 }
