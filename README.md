@@ -1,7 +1,7 @@
 ## DevOps - Terraform
 
 - Quickstart
-  - [AWS Infrastructure](get-started/aws-provider)
+  - [AWS Infrastructure](get-started/aws)
 - Fundamentals
   - Command Line Interface
   - Configuration Language
