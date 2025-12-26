@@ -1,0 +1,14 @@
+https://developer.hashicorp.com/terraform/cli
+
+https://developer.hashicorp.com/terraform/language
+https://developer.hashicorp.com/terraform/language/block/check
+https://developer.hashicorp.com/terraform/language/provisioners
+
+https://registry.terraform.io/
+https://registry.terraform.io/browse/providers
+https://registry.terraform.io/browse/modules
+
+https://registry.terraform.io/search/providers?q=hashicorp
+
+https://developer.hashicorp.com/terraform/language/block/resource#connection
+https://developer.hashicorp.com/terraform/tutorials
